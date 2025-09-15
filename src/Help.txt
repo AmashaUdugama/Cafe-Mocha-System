@@ -1,0 +1,8 @@
+===== Café Mocha System Help =====
+1. Login with your admin credentials.
+2. Add new customer orders through the 'Add New Customer Order' option.
+3. View all order details using 'Display Order Details'.
+4. Calculate and print bills with 'Calculate and Print Bill'.
+5. Add new items to the menu using 'Add New Items to the Menu'.
+6. For any assistance, refer to this help section.
+7. Exit the system using the 'Exit' option.

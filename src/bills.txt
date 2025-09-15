@@ -1,0 +1,141 @@
+Order Number: ORD007, Total Bill Amount: $0.0
+Order Number: ORD004
+Subtotal: RS150.0
+Discount: -RS15.0
+Subtotal after Discount: RS135.0
+Tax: RS:10.8
+Total Bill Amount: $145.8
+-----------------------------------
+Order Number: ORD003
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD003
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD003
+Subtotal: RS300.0
+Discount: -RS30.0
+Subtotal after Discount: RS270.0
+Tax: RS:21.6
+Total Bill Amount: RS:291.6
+-----------------------------------
+Order Number: ORD002
+Subtotal: RS200.0
+Discount: -RS20.0
+Subtotal after Discount: RS180.0
+Tax: RS:14.4
+Total Bill Amount: RS:194.4
+-----------------------------------
+Order Number: ORD002
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD005
+Subtotal: RS350.0
+Discount: -RS35.0
+Subtotal after Discount: RS315.0
+Tax: RS:25.2
+Total Bill Amount: RS:340.2
+-----------------------------------
+Order Number: ORD003
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD006
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD007
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD004
+Subtotal: RS150.0
+Discount: -RS15.0
+Subtotal after Discount: RS135.0
+Tax: RS:10.8
+Total Bill Amount: RS:145.8
+-----------------------------------
+Order Number: ORD005
+Subtotal: RS350.0
+Discount: -RS35.0
+Subtotal after Discount: RS315.0
+Tax: RS:25.2
+Total Bill Amount: RS:340.2
+-----------------------------------
+Order Number: ORD006
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD008
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD003
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD005
+Subtotal: RS350.0
+Discount: -RS35.0
+Subtotal after Discount: RS315.0
+Tax: RS:25.2
+Total Bill Amount: RS:340.2
+-----------------------------------
+Order Number: ORD006
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD002
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD004
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
+Order Number: ORD003
+Subtotal: RS0.0
+Discount: -RS0.0
+Subtotal after Discount: RS0.0
+Tax: RS:0.0
+Total Bill Amount: RS:0.0
+-----------------------------------
