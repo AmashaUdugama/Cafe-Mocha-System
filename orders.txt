@@ -1,0 +1,10 @@
+ORD001,Sanath Perera,123 Galle Road,0712345678,sanath.perera@example.com,ITEM001,ITEM002
+ORD002,Chaminda Silva,456,coclombo road,0723456700,Chaminda.silva@example.com,ITEM003
+ORD003,Aruna Gunaratne,303 Matara Road,0767890123,aruna.gunaratne@example.com,ITEM011,ITEM012
+ORD004,CHAMILA SILVA,456,COLOMO ROAD,0723456788,CHAMILA@S.COM,ITEM003,ITEM004,ITEM008
+ORD005,Rathna Kumari,202 Negombo Avenue,0756789012,rathna.kumari@example.com,ITEM009,ITEM010
+ORD006,Aruna Gunaratne,303 Matara Road,0767890123,aruna.gunaratne@example.com,ITEM011,ITEM012
+
+
+
+
