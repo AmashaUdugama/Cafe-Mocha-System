@@ -1,0 +1,11 @@
+ITEM001,Coffee,150,Hot brewed coffee,DRINKS
+ITEM002,Tea,100,Traditional Sri Lankan tea,DRINKS
+ITEM003,MORCHA,500,LATTE,DRINKS
+ITEM004,Samosa,80,Spicy pastry filled with vegetables,Baverangers
+ITEM005,Short Eats Platter,250,Assorted Sri Lankan short eats,Baverangers
+ITEM006,Rice and Curry,500,Classic Sri Lankan rice and curry meal,Baverangers
+ITEM007,Hoppers,150,Crispy hoppers with sambol and curry,Baverangers
+ITEM008,Idiyappam,200,Steamed rice noodles with coconut milk and curry,Baverangers
+ITEM009,Chicken Kottu,350,Chopped roti with chicken and vegetables,Baverangers
+ITEM010,Fresh Juice,150,Seasonal fresh fruit juice,DRINKS
+ITEM012,Black tea,450,hot,DRINKS
